@@ -7,6 +7,6 @@ En este repositorio se realizarán los ejercicios prácticos de Git y GitHub.
 
 | NOMBRE | GITHUB |
 |-------|--------|
-| Rosi Orias | \[rosiorillo](https://github.com/rosiorillo) |
-| David Santiago | \[santigrafic](https://github.com/santigrafic) |
-| Iker Martínez| \[moimenta84](https://github.com/moimenta84) |
+| Rosi Orias | [rosiorillo](https://github.com/rosiorillo) |
+| David Santiago | [santigrafic](https://github.com/santigrafic) |
+| Iker Martínez| [moimenta84](https://github.com/moimenta84) |
